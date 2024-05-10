@@ -1,13 +1,18 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Sevde Gül Emil</h1>
+<h3 align="center"></h3>
 
-I'm Sevde Gül Emil.
 
-🌱 I’m currently learning C Programming.
+- I’m currently learning C Programming
 
-📫 You can reach me via email at sevdegulemil42@gmail.com.
+- How to reach me **sevdegulemil42@gmail.com**
 
-## Connect with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</p>
 
-## Languages and Tools:
 
-Feel free to reach out to me if you have any questions or just want to say hi! 😊
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmayetis/esmayetis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmayetis/esmayetis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/esmayetis/esmayetis/output/github-contribution-grid-snake.svg">
+</picture>

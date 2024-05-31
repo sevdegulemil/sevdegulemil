@@ -10,7 +10,7 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,git)](https://skillicons.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sevdegulemil&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sevdegulemil&show_icons=true&count_private=true&hide=contribs,issues" alt="sevdegulemil's github stats" />

@@ -3,7 +3,7 @@
 
 - I'm a student at "42 İstanbul" and "Erciyes University, Department of Astronomy and Space Science"
 
-- I’m currently learning C Programming
+- I’m currently learning C and C++ Programming
 
 - How to reach me **sevdegulemil42@gmail.com**
 
